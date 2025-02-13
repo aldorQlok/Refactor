@@ -1,0 +1,14 @@
+{
+    "user": "Aldor Besher",
+    "arbetsplats": [
+        {
+            "name": "Qlok",
+            "Arbetsuppgifter": "lorem ipsem"
+        },
+        {
+            "name": "Fostira",
+            "Arbetsuppgifter": "lorem ipsem 2"
+
+        }
+    ]
+}
